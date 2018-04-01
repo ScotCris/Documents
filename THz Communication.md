@@ -31,7 +31,7 @@
   [![525px-Atmospheric_Microwave_Transmittance_at_Mauna_Kea_(simulated).svg.png](https://i.loli.net/2018/03/07/5a9fd8d4ded80.png)](https://i.loli.net/2018/03/07/5a9fd8d4ded80.png)
 
 
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **大气层对不同频率电磁波的吸收率**
+
 
    - 大带宽：THz的频带宽度大约为长波，中波，短波，微波带宽的1000倍。如此大的带宽可以满足人们对通信速率不断增加的要求。而且大带宽也带来了高安全性这一特性，因为在如此大的带宽里捕捉对方的通信频段是十分困难的。
 
@@ -39,8 +39,7 @@
 
    - 散射小：对浮质和云层可穿透性高。这主要是由于 THz波的波长小决定的。国际通讯联盟已指定200GHz的频段为下一代卫星间通信之用。进一步的发展必定进入300 GHz以上的范围。THz通信适合于卫星间的星际通信和同温层空对空通信。所谓同温层是指从地面 10 公里至 50 公里高度的大气层，同温层内空气多作水平运动，气流平稳，能见度好，适于监视和侦察设备飞行。
    ******
-
-   ### 3.太赫兹通信的应用
+### 3.太赫兹通信的应用
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1大场景应用
 
 
